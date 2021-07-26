@@ -1,5 +1,5 @@
 <!---<img align="right" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="100">--->
-<img align="right" src="https://media.giphy.com/media/26FL3oE2qrNIDQVgI/giphy.gif" width="500">
+<img align="right" src="https://cdn.dribbble.com/users/189524/screenshots/1953501/01-aces_v2.gif" width="400">
 <!--<img align="right" src="https://media.giphy.com/media/lSzQjkthGS1gc/giphy.gif" width="100">-->
 
 ### <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="50"> whoami ->
@@ -17,7 +17,8 @@
 
 <br />
 
-### Bows and arrows:
+### <img src="https://media.giphy.com/media/26BRNBuDCdQZOsO0o/giphy.gif" width="200">    Bows and arrows   -->
+
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="kde" width="30px" src="https://www.kali.org/images/logo-kde.svg" />
 <img align="left" alt="kde" width="40px" src="https://www.kali.org//images/kali-logo.svg" />
