@@ -1,5 +1,5 @@
 <!---<img align="right" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="100">--->
-<img align="right" src="https://media.giphy.com/media/26FL3oE2qrNIDQVgI/giphy.gif" width="400">
+<img align="right" src="https://media.giphy.com/media/26FL3oE2qrNIDQVgI/giphy.gif" width="500">
 <!--<img align="right" src="https://media.giphy.com/media/lSzQjkthGS1gc/giphy.gif" width="100">-->
 
 ### <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="50"> whoami ->
