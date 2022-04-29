@@ -1,42 +1,45 @@
-<!---<img align="right" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="100">--->
 <img align="right" src="https://cdn.dribbble.com/users/189524/screenshots/1953501/01-aces_v2.gif" width="400">
-<!--<img align="right" src="https://media.giphy.com/media/lSzQjkthGS1gc/giphy.gif" width="100">-->
 
-### <img src="https://media.giphy.com/media/xT39DgKMixPKDrwzf2/giphy.gif" width="50"> whoami ->
--  Hi, I’m Mahbub_Hasan 👋
+Hi 👋 My name is Mahbub\_Hasan
+==============================
 
-<img src="https://media.giphy.com/media/26gR0OfapamWTkOha/giphy.gif" width="30"> I’m interested in ->
-- sw , data , ml ,ai  ...
+ML && Blockchain Enthusiast
+---------------------------
 
-<img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="30"> I’m currently learning ...
-- C++ , js , rust , dart & flutter ...
+Hello, I'm Mahbub ! Currently am pursuing my undergraduate degree , majoring in computer science & engineering . I have experience in using C/C++ , Rust , java , kotlin , Python for programming. Mostly doing problem solving and competitive programming . ML , AI & blockchain are my interests where I spend time to do some related projects . I seek for chances to learn and improve constantly , feel free to pm or connect with me !
 
-<img src="https://media.giphy.com/media/326i3pf3ql0szC1Gid/giphy.gif" width="30"> To learn ->
-- everything :)  
+* 🌍  I'm based in Dhaka , Bangladesh
+* 🖥️  See my portfolio at [Luc1d1ty](http://luc1d.ml)
+* ✉️  You can contact me at [hasanmahbub498@gmail.com](mailto:hasanmahbub498@gmail.com)
+* 🧠  I'm learning Everything :)
+* 🤝  I'm open to collaborating on Anything related so ML , AI or blockchain .
+* ⚡  Programming -> can't live with it , can't live without it 🤦
 
+### Skills
 
-<br />
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+</p>
 
-### <img src="https://media.giphy.com/media/26BRNBuDCdQZOsO0o/giphy.gif" width="200">    Bows and arrows   -->
+### Socials
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="kde" width="30px" src="https://www.kali.org/images/logo-kde.svg" />
-<img align="left" alt="kde" width="40px" src="https://www.kali.org//images/kali-logo.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<p align="left"> <a href="https://discord.com/users/Luc1d#2306" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Luc1d1ty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahsn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<b>My GitHub Stats</b>
 
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<a href="http://www.github.com/Luc1d1ty"><img src="https://github-readme-stats.vercel.app/api?username=Luc1d1ty&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Luc1d1ty's GitHub stats" /></a>
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="http://www.github.com/Luc1d1ty"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luc1d1ty&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<br />
-<!---
-Mahbub-Hasan-498/Mahbub-Hasan-498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com/Luc1d1ty"><img src="https://activity-graph.herokuapp.com/graph?username=Luc1d1ty&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Luc1d1ty" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc1d1ty&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
