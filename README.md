@@ -36,10 +36,10 @@ Hello, I'm Mahbub ! Currently am pursuing my undergraduate degree , majoring in 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Luc1d1ty"><img src="https://github-readme-stats.vercel.app/api?username=Luc1d1ty&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Luc1d1ty's GitHub stats" /></a>
+<a href="http://www.github.com/Luc1d1ty"><img src="https://github-readme-stats.vercel.app/api?username=Luc1d1ty&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ec4899&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Luc1d1ty's GitHub stats" /></a>
 
-<a href="http://www.github.com/Luc1d1ty"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luc1d1ty&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Luc1d1ty"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luc1d1ty&stroke=ec4899&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ec4899&currStreakLabel=14b8a6&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-<a href="http://www.github.com/Luc1d1ty"><img src="https://activity-graph.herokuapp.com/graph?username=Luc1d1ty&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Luc1d1ty"><img src="https://activity-graph.herokuapp.com/graph?username=Luc1d1ty&bg_color=0f172a&color=ec4899&line=facc15&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Luc1d1ty" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc1d1ty&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Luc1d1ty" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc1d1ty&langs_count=10&title_color=14b8a6&text_color=ec4899&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
