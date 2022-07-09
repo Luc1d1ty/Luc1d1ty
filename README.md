@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.dribbble.com/users/189524/screenshots/1953501/01-aces_v2.gif" width="200">
+<img align="center" src="misc/top.gif" width="500">
 
 $whoami
 ==============================
