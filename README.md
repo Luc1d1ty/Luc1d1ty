@@ -1,4 +1,4 @@
-<img align="center" src="misc/top.gif" width="500">
+<img align="center" src="misc/banner.gif" height="500" width="1000">
 
 $whoami
 ==============================
@@ -41,3 +41,7 @@ Currently pursuing my undergraduate degree , majoring in computer science & engi
 <a href="http://www.github.com/Luc1d1ty"><img src="https://activity-graph.herokuapp.com/graph?username=Luc1d1ty&bg_color=0f172a&color=ec4899&line=facc15&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!--- <a href="https://github.com/Luc1d1ty" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc1d1ty&langs_count=10&title_color=14b8a6&text_color=ec4899&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> ---!>
+
+
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=luc1d&label=Profile%20views&color=ff5900&style=flat" alt="luc1d" /> </p>
+
