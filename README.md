@@ -1,4 +1,4 @@
-<img align="center" src="misc/banner.gif" height="500" width="980">
+<img align="center" src="misc/banner.gif" height="450" width="850">
 
 $whoami
 ==============================
