@@ -11,9 +11,8 @@ Currently pursuing my undergraduate degree , majoring in computer science & engi
 
 * 🖥️  See my portfolio at [Luc1d1ty](http://luc1d.ml)
 * ✉️  You can contact me at [hasanmahbub498@gmail.com](mailto:hasanmahbub498@gmail.com)
-* 🧠  Learning Everything :)
 * 🤝  I'm open to collaborating on Anything related so ML , AI or blockchain .
-* ⚡  Programming -> can't live with it , can't live without it 🤦
+
 
 ### Skills
 
